@@ -1,0 +1,17 @@
+1. Why do we need GIT?
+
+
+
+------------------------Revision--------------------------------
+
+Tracking our very first project using GIT
+
+Scenario: Work on a project and maintain the versions locally and also on github!!!!
+
+Approach:
+
+Tracking our very first project
+    1. Choose the location where you want to create
+    2. Navigate
+    3. Initialize the repo in the working Directory --> git init
+    4. git status --> 
